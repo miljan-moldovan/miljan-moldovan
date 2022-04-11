@@ -38,7 +38,6 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = "Miljan Moldovan"
     about = """I'm a very responsible guy, hardworking, motivated and adaptable. 
 
     I spend a lot of time learning new stuff and improving my skills.

@@ -47,9 +47,11 @@
 
     I welcome challenges on a daily basis and will continue to do so in order to improve. 
 
-    I have extensive experience creating websites and web applications, working with distributed systems on the back-end as well as the front-end, as well as developing complex graphical user interfaces. 
+    I have extensive experience creating websites and web applications, working with distributed systems 
+    on the back-end as well as the front-end, as well as developing complex graphical user interfaces. 
 
-    Javascript is my favourite language, but I am not afraid to work out of my comfort zone. I welcome all challenges that come my way, and treat them as opportunities to grow and learn something new."""
+    Javascript is my favourite language, but I am not afraid to work out of my comfort zone. I welcome all 
+    challenges that come my way, and treat them as opportunities to grow and learn something new."""
     specialties = """MEAN and MERN, React, Vue, Angular, Laravel, 
     Node.js, Next.js, Nesst.js, AWS, Firebase - React Native, Flutter"""
 	education = "Warsaw University Of Technology"

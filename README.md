@@ -38,15 +38,20 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Miljan Moldovan'
+ 	user = "Miljan Moldovan"
     about = """I'm a very responsible guy, hardworking, motivated and adaptable. 
+
     I spend a lot of time learning new stuff and improving my skills.
+
     Javascript is my cup of tea, and I make sure that a day doesn't go by without a little of Javascript code. 
+
     I welcome challenges on a daily basis and will continue to do so in order to improve. 
+
     I have extensive experience creating websites and web applications, working with distributed systems on the back-end as well as the front-end, as well as developing complex graphical user interfaces. 
+
     Javascript is my favourite language, but I am not afraid to work out of my comfort zone. I welcome all challenges that come my way, and treat them as opportunities to grow and learn something new."""
     specialties = """MEAN and MERN, React, Vue, Angular, Laravel, 
-    Node.js, Next.js, Nesst.js, AWS, Firebase - React Native, Flutter""" 
+    Node.js, Next.js, Nesst.js, AWS, Firebase - React Native, Flutter"""
 	education = "Warsaw University Of Technology"
 	
 	def getCity():

@@ -2,7 +2,6 @@
 
 <h1>Welcome to my Digital World</h1> 
 
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/0/01/Matrixcode.gif' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-miljan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miljan-moldovan-/)](https://www.linkedin.com/in/miljan-moldovan-/) [![Gmail Badge](https://img.shields.io/badge/-miljan.moldovan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miljan.moldovan@gmail.com)](mailto:miljan.moldovan@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miljan-moldovan" alt="miljan-moldovan" /> </p>
@@ -34,34 +33,3 @@
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
     </p>
- 
- ## Who am I?
- ```python
- class WhoAmI:
-    about = """I'm a very responsible guy, hardworking, motivated and adaptable. 
-
-    I spend a lot of time learning new stuff and improving my skills.
-
-    Javascript is my cup of tea, and I make sure that a day doesn't go by without a little of Javascript code. 
-
-    I welcome challenges on a daily basis and will continue to do so in order to improve. 
-
-    I have extensive experience creating websites and web applications, working with distributed systems 
-    on the back-end as well as the front-end, as well as developing complex graphical user interfaces. 
-
-    Javascript is my favourite language, but I am not afraid to work out of my comfort zone. I welcome all 
-    challenges that come my way, and treat them as opportunities to grow and learn something new."""
-    specialties = """MEAN and MERN, React, Vue, Angular, Laravel, 
-    Node.js, Next.js, Nesst.js, AWS, Firebase - React Native, Flutter"""
-	education = "Warsaw University Of Technology"
-	
-	def getCity():
-		return Warsaw, Masovian()
-	
- ```
- 
-## Latest Posts
- * [How to make your own JS Library with legacy code](https://miljan-moldovan.web.app/blog_1.html).
- * [Web Apps using React Router and Next.js](https://miljan-moldovan.web.app/blog_2.html).
- * [The best SEO implemententions: Improve you web traffic and get better results](https://miljan-moldovan.web.app/blog_3.html).
- 
